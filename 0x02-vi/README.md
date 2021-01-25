@@ -1,0 +1,1 @@
+This project is to get familiar with the basics of vi(m) a file editing software that is a bit more complicated to use than emacs but is also more versatile.
