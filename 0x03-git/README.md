@@ -1,1 +1,1 @@
-This is the Git project in order to learn how to use Git and github
+This is the Git project in order to learn how to use Git and github, and now it's updated for the sake of the project
