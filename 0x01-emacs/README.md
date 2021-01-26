@@ -1,0 +1,1 @@
+This project is to get familiar with the basics of using emacs, a file editing software.
